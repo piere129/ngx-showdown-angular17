@@ -1,7 +1,7 @@
 {
-  "name": "ngx-showdown",
+  "name": "ngx-showdown-angular17",
   "version": "0.0.0-semantically-released",
-  "description": "A Angular (>=2) integration for Showdown",
+  "description": "A Angular 17 integration for Showdown",
   "keywords": [
     "ng",
     "ng2",
@@ -18,17 +18,17 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "Yisrael Eliav",
-    "email": "yisraelx@gmail.com",
-    "url": "https://github.com/yisraelx/"
+    "name": "Pieter Desseyn",
+    "email": "pieterdesseyn@gmail.com",
+    "url": "https://github.com/piere129/"
   },
-  "homepage": "http://yisraelx.github.io/ngx-showdown",
+  "homepage": "http://piere129.github.io/ngx-showdown",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yisraelx/ngx-showdown.git"
+    "url": "https://github.com/piere129/ngx-showdown.git"
   },
   "bugs": {
-    "url": "https://github.com/yisraelx/ngx-showdown/issues"
+    "url": "https://github.com/piere129/ngx-showdown/issues"
   },
   "scripts": {
     "build": "run-s build:*",
