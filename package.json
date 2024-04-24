@@ -32,6 +32,7 @@
   },
   "scripts": {
     "build": "run-s build:*",
+    "update": "ng update @angular/core@latest",
     "build:lib": "ng build lib",
     "build:demo": "ng build demo",
     "build:docs": "compodoc",
